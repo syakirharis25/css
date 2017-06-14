@@ -12,3 +12,11 @@ p.blue{color: blue;} : set the blue class of paragraph in blue color
 
 p.blue{color: blue;} 			: set the blue class of paragraph in blue color
 <p class="blue">Paragraph</p> 	: call the css blue class paragraph and apply the css command
+
+body > p {color: orange;} : apply the css command only to the body of HTML syntax, cnage the color of pragraph to orange
+
+<p>Paragraph One</p> 		: apply the css command
+
+<div>
+	<p>Paragraph Two</p>
+</div>						: did not apply the css command
