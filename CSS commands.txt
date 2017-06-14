@@ -71,3 +71,19 @@ h2,3
 	<h3>This is level three heading.</h3>
 	<h4>This is level four heading.</h4>
 </body>										: apply the previous CSS commands on the h2, h3 HTML headers statements
+
+<link rel="stylesheet" type="text/css" href="file:///C:/Usewrs/harisariffin/Desktop/CSS/css_masters.css" /> : make a link to CSS external file
+
+<style type="text/css">
+	h2
+	{
+		color: orange;
+	}
+</style> 				: change the HTML h2 header color to orange
+
+<body>
+	<h1>This is level one heading.</h1>
+	<h2>This is level two heading.</h2>
+	<h3 style="color: green;">This is level three heading.</h3>
+	<h4>This is level four heading.</h4>
+</body>															: h2 header will apply internal CSS command, h3 header will apply inline CSS command
