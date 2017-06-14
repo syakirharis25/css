@@ -29,3 +29,14 @@ body > p {color: orange;} : apply the css command only to the body of HTML synta
 </style>													: set the HTML input text color to blue color
 
 <p>First Name <input type="text" name="first"><input></p> 	: the input text will apply CSS command, the text will appear in blue color
+
+<style type="text/css">
+	p
+	{
+	color: blue;
+	font-family: vivaldi;
+	background-color: orange;
+	}
+</style>						: set css style on HTML paragraph, applying color as blue, using vivaldi font family and orange as background color
+
+<p>A Quick brown Fox jumps over the lazy dog.</p> : applying the css paragraph style sheet set before on this paragraph statement
