@@ -52,3 +52,22 @@ body > p {color: orange;} : apply the css command only to the body of HTML synta
 
 <h1>What's up dudes?</h1>
 <p>A quick brown Fox jumps over the lazy dog.</p> : set the header and paragraph statements applying the css commands set before
+
+<h1 style="color: green;">Want to know what it is?</h1> : set the text 'Want to know what it is' color in green
+
+css_masters.css
+---------------
+h2,3
+{
+	font_style: italic;
+	color : blue;
+} 							: set the HTML headers h1, h3 using italic font style and applying blue color
+
+<link rel="stylesheet" type="text/css" href="file:///C:/Users/harisariffin/Desktop/CSS/css_masters.css" : make a CSS link to refer to external CSS file location
+
+<body>
+	<h1>This is level one heading.</h1>
+	<h2>This is level two heading.</h2>
+	<h3>This is level three heading.</h3>
+	<h4>This is level four heading.</h4>
+</body>										: apply the previous CSS commands on the h2, h3 HTML headers statements
