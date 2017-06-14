@@ -87,3 +87,5 @@ h2,3
 	<h3 style="color: green;">This is level three heading.</h3>
 	<h4>This is level four heading.</h4>
 </body>															: h2 header will apply internal CSS command, h3 header will apply inline CSS command
+
+/* long comments */ : add comments to CSS file
