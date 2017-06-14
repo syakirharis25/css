@@ -1,0 +1,14 @@
+* A typical style rule in CSS has : 1)Selector, 2)Property, 3)Value
+* Selector {Property:Value}
+
+<style type="text/css">
+</style>				: initialize css text command
+
+h1{color: red;} 		: set the header size as h1 and color in red
+
+p.blue{color: blue;} : set the blue class of paragraph in blue color
+
+<p class="blue">Paragraph</p> : call the css blue class paragraph and apply the css command
+
+p.blue{color: blue;} 			: set the blue class of paragraph in blue color
+<p class="blue">Paragraph</p> 	: call the css blue class paragraph and apply the css command
