@@ -20,3 +20,12 @@ body > p {color: orange;} : apply the css command only to the body of HTML synta
 <div>
 	<p>Paragraph Two</p>
 </div>						: did not apply the css command
+
+<style type="text/css">
+	input[type="text"]
+	{
+		color: blue;
+	}
+</style>													: set the HTML input text color to blue color
+
+<p>First Name <input type="text" name="first"><input></p> 	: the input text will apply CSS command, the text will appear in blue color
