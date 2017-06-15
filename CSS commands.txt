@@ -112,3 +112,7 @@ background-position: 70px 150px; : move the background image to right 70 pixels,
 background-repeat: no-repeat; : do not repeat the background image
 background-repeat: repeat-x;  : repeat the background image horizontally only
 background-repeat: repeat-y;  : repeat the background image vertically only
+
+background-attachment: fixed; : the background image will be fixed to its static position location although user scroll the browser
+
+background-attachment: scroll; : the background image will follow the scroll of the browser
