@@ -94,7 +94,13 @@ h2,3
 	p
 	{
 		line-height: 500%;
-		font-size: 2in;
+		font-size: 20pt;
 		letter-spacing: 5ex;
+		border: 7px solid black;
 	}
-</style>						: set the line-height to 500%, font-size to 2 inches wide, letter-spacing to 5 times relative to the x-height of the current font
+</style>						: set the line-height to 500%, font-size to 2o points size, letter-spacing to 5 times relative to the x-height of the current font, border with 7 pixel size in solid black
+
+background-color: cyan; 	: set the background color to cyan color
+background-color: #FF6600 	: set the background color to #FF6600, orange color
+
+font-size: 40pt; : set the font size to 40 points size
