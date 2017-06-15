@@ -104,3 +104,11 @@ background-color: cyan; 	: set the background color to cyan color
 background-color: #FF6600 	: set the background color to #FF6600, orange color
 
 font-size: 40pt; : set the font size to 40 points size
+
+background_image: url(eminem.jpg); : set the background image to eminem.jpg
+
+background-position: 70px 150px; : move the background image to right 70 pixels, downward 150 pixels
+
+background-repeat: no-repeat; : do not repeat the background image
+background-repeat: repeat-x;  : repeat the background image horizontally only
+background-repeat: repeat-y;  : repeat the background image vertically only
