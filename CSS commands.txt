@@ -89,3 +89,12 @@ h2,3
 </body>															: h2 header will apply internal CSS command, h3 header will apply inline CSS command
 
 /* long comments */ : add comments to CSS file
+
+<style type="text/css"">
+	p
+	{
+		line-height: 500%;
+		font-size: 2in;
+		letter-spacing: 5ex;
+	}
+</style>						: set the line-height to 500%, font-size to 2 inches wide, letter-spacing to 5 times relative to the x-height of the current font
