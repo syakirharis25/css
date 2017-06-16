@@ -143,3 +143,23 @@ background-attachment: scroll; : the background image will follow the scroll of 
 <p style="word-spacing: 10px";>
 	We don't need no education.
 </p>							: set the word spacing to 10 pixels
+
+<p style="text-indent: 1in">
+	If you can keep your head when all about you,
+	<br />Are losing theirs and blaming it on you,
+</p>														: indent the whole text by 1 inch
+
+<p style="text-align: right">
+	If you can trust yourself when all men doubt you,
+	<br />But make allowance for their doubting too,
+</p>														: align the whole text to right of the browser page
+
+<p style="text-decoration: underline">
+	If you can wait and not be tired by waiting,
+	<br />Or being lied about, don't deal in lies,
+</p>														: underline the whole text
+		
+<p style="text-transform: lowercase">
+	Or being hated, don't give way to hating,
+	<br />And yet don't look too good, nor talk too wise.
+</p>														: transform the whole text into lowercase format
