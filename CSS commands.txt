@@ -175,3 +175,10 @@ background-attachment: scroll; : the background image will follow the scroll of 
 
 <h2>2. Andy Murray</h2>
 <img style="opacity:0.3" src="andy.jpg" /> 					: set the image opacity to 0.3 thick
+
+<style type="text/css">
+	a:link{color: orange;}
+	a:visited{color: blue;}
+	a:hover{color: black;}
+	a:active{color: red;}
+</style>						: untouch link will appear in orange color, when user hover the mouse to the link, the color of the link will change to black color, when user click the link, the color of the link will change to red color, when user already visited the link, the color will change to blue
