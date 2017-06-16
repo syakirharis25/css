@@ -116,3 +116,14 @@ background-repeat: repeat-y;  : repeat the background image vertically only
 background-attachment: fixed; : the background image will be fixed to its static position location although user scroll the browser
 
 background-attachment: scroll; : the background image will follow the scroll of the browser
+
+<style type="text/css">
+	p
+	{
+		font-size: 22pt;
+		font-family: calibri;
+		font-variant: small-caps;
+		font-weight: bold;
+		font-style: italic;
+	}
+</style>							: set the text style to css format for paragraph with 22 points font size, applying calibri font family, applying small caption font variant, weight the font with bold, styling the font with italic
