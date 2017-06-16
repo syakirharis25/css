@@ -186,3 +186,15 @@ background-attachment: scroll; : the background image will follow the scroll of 
 border-color: red; 		: set the border color in red
 border-style: dashed; 	: applying the dashed border style
 border-width: 2px;		: set the width of border to 2 pixels
+
+<hr> : add horizontal rule
+
+<style type="text/css">
+	p
+	{
+		margin-top: 40px;
+		margin-bottom: 50px;
+		margin-left: 60px;
+		margin-right: 100px;
+	}
+</style>						: add top margin above paragraph to 40 pixels, add bottom margin below paragraph tp 50 pixels, add left margin beside paragraph to 60 pixels, add right margin beside paragraph to 100 pixels
