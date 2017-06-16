@@ -182,3 +182,7 @@ background-attachment: scroll; : the background image will follow the scroll of 
 	a:hover{color: black;}
 	a:active{color: red;}
 </style>						: untouch link will appear in orange color, when user hover the mouse to the link, the color of the link will change to black color, when user click the link, the color of the link will change to red color, when user already visited the link, the color will change to blue
+
+border-color: red; 		: set the border color in red
+border-style: dashed; 	: applying the dashed border style
+border-width: 2px;		: set the width of border to 2 pixels
