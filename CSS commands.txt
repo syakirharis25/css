@@ -163,3 +163,15 @@ background-attachment: scroll; : the background image will follow the scroll of 
 	Or being hated, don't give way to hating,
 	<br />And yet don't look too good, nor talk too wise.
 </p>														: transform the whole text into lowercase format
+
+<h2>1. Novak Djokovic</h2>
+<img style="border: 5px solid green;" src="novak.jpg" /> 	: set the image border to 5 pixels with solid line and green in color
+
+<h2>2. Roger Federer</h2>
+<img style="height: 550px" src="roger.jpg" /> 				: set the image width to 550 pixels
+
+<h2>3. Rafael Nadal</h2>
+<img style="width: 480px" src="rafa.jpg" /> 				: set the image width to 480 pixels
+
+<h2>2. Andy Murray</h2>
+<img style="opacity:0.3" src="andy.jpg" /> 					: set the image opacity to 0.3 thick
