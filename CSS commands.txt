@@ -127,3 +127,19 @@ background-attachment: scroll; : the background image will follow the scroll of 
 		font-style: italic;
 	}
 </style>							: set the text style to css format for paragraph with 22 points font size, applying calibri font family, applying small caption font variant, weight the font with bold, styling the font with italic
+
+<p style="color: yellow";>
+	Get a good job with more pay and you're okay!
+</p>												: set the text color to yellow color
+
+<p style="direction:rtl";>
+	Shine on! You crazy diamond
+</p> 							: set the direction of text from right to left
+
+<p style="letter-spacing: 5px";>
+	Us and them, and after all we're all just ordinary men.
+</p>														: set the letter spacing to 5 pixels
+
+<p style="word-spacing: 10px";>
+	We don't need no education.
+</p>							: set the word spacing to 10 pixels
