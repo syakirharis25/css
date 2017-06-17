@@ -198,3 +198,41 @@ border-width: 2px;		: set the width of border to 2 pixels
 		margin-right: 100px;
 	}
 </style>						: add top margin above paragraph to 40 pixels, add bottom margin below paragraph tp 50 pixels, add left margin beside paragraph to 60 pixels, add right margin beside paragraph to 100 pixels
+
+<ul style="list-style-type: circle;">
+	<li>Dark side of the moon</li>
+	<li>Wish you were here</li>
+	<li>The Wall</li>
+	<li>The Division Bell</li>
+</ul>									: set the list style type to circle
+
+<ul style="list-style-type: lower-roman;">
+	<li>Russia</li>
+	<li>Antarctica</li>
+	<li>Canada</li>
+	<li>China</li>
+	<li>USA</li>
+	<li>Brazil</li>
+	<li>Australia</li>
+	<li>India</li>
+	<li>Argentina</li>
+	<li>Kazakhstan</li>
+	<li>Algeria</li>
+</ul>											: set the list style type to lower roman numerals
+
+<style type="text/css">
+	ul
+	{
+		list-style-image: url(pink.jpg);
+	}
+</style>									: set the image list style to pink.jpg url location
+
+<ul style="list-style-position: inside;">
+<li><b>Dark Side of the Moon</b>: The Dark Side of the Moon is 
+the eighth album by English rock band Pink Floyd, released 
+on 1 March 1973. It built on ideas explored in earlier recordings 
+and live shows, but lacks the extended instrumental excursions that 
+characterised their work following the departure of 1968 of founder member,
+principal composer, and lyricist, Syd Barrett. The themes on The Dark Side 
+of The Moon include conflict, greed, the passage of time, and mental illness, 
+the latter partly inspired by Barrett's deteriorating mental state.</li> 		: set the  list position to be inside, inline with the text
