@@ -297,3 +297,51 @@ ctrl+u : see the html codes of the current browser
 
 visibility: hidden; 	: hide the element from the browser
 visibility: visible; 	: make the element visibile from the browser
+
+
+<style type="text/css">
+    div
+	{
+		position: fixed;
+		left: 300px;
+		top: 300px;
+	}
+</style>					: position the div element 300 pixels from the left of browser and 300 pixels from the top of browser
+
+<style type="text/css">
+    div
+	{
+		position: relative;
+		left: 300px;
+		top: 300px;
+	}
+</style>					: position the dive element 300 pixels from the left of browser and 300 pixels from the top, below the previous element 
+
+<div
+	style="position: fixed;
+	top: 100px;
+	left: 450px;
+	z-index: 4;">
+	<img src="novak.jpg" />
+</div>
+<div
+	style="position: fixed;
+	top: 220px;
+	left: 280px;
+	z-index: 2;">
+	<img src="roger.jpg" />
+</div>
+<div 
+	style="position: fixed;
+	top: 220px;
+	left: 590px;
+	z-index: 3;">
+	<img src="rafa.jpg" />
+</div>
+<div 
+	style="position: fixed;
+	top: 420px;
+	left: 450px;
+	z-index: 1;">
+	<img src="andy.jpg" />
+</div>						: set the "novak.jpg" image position at the 4th layer of div, set the "roger.jpg" image position at the 2nd layer, set the "rafa.jpg" image position at the 3rd layer, set the "andy.jpg" image position at the 1st layer
