@@ -345,3 +345,57 @@ visibility: visible; 	: make the element visibile from the browser
 	z-index: 1;">
 	<img src="andy.jpg" />
 </div>						: set the "novak.jpg" image position at the 4th layer of div, set the "roger.jpg" image position at the 2nd layer, set the "rafa.jpg" image position at the 3rd layer, set the "andy.jpg" image position at the 1st layer
+
+p.para1:first-line
+{
+	font-style: italic;
+	text-decoration: underline;
+	font-size: 24pt;
+	font-family: verdana;
+}								: set pseudo element first-line to paragraph with class para1, applying italic font style, underline text decoration, font size of 24 points and font family of verdana
+
+p.para2:first-letter
+{
+	font-style: bold;
+	font-size: 20pt;
+}						: set pseudo element first-letter to paragraph with class para2, applying bold font style, font size of 20 points
+
+p.para3:before
+{
+	content: "Hello,";
+	font-style: bold;
+	font-size: 16pt;
+}						: set the pseudo element before to paragraph with class para3, applying added content "Hello", bold font style, and 16 points font size
+
+p.para4:after
+{
+	content: " Thank you for writing to us!";
+	font-style: italic;
+}												: set the pseudo element after paragraph with class para4, applying added content "Thank you for writing to us!", italic font style
+
+<p class="para1">
+	The Road not Taken - By Robert Frost <br />
+	Two roads diverged in a yellow wood, <br />
+	And sorry I could not travel both </br />
+	And be one traveler, long I stood <br />
+	And looked down one as far as I could <br />
+	To where it bent in the undergrowth;
+</p>												: apply CSS pseudo element first-line command to first line of the paragraph
+
+<p class="para2">
+	Then took the other, as just as fair, <br />
+	And having perhaps the better claim, <br />
+	Because it was grassy and wanted wear; <br />
+	Though as for that the passing there <br />
+	Had worn them really about the same,
+</p>												: apply CSS pseudo element first-letter to the first letter of the paragraph
+
+<p class="para3">
+	how are you? <br />
+	how may I help you?
+</p>						: apply CSS pseudo element before to before the starting of paragragh statement
+
+<p class="para4" style="font-size: 16pt;">
+	Your query will be addressed soon.
+	<br />
+</p>										: set the font size to 16 points and apply CSS pseudo element after, after the break element in the paragraph
