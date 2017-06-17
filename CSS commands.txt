@@ -292,3 +292,8 @@ min-width: 100px; 	: set the minimum width for the dimension to 100 pixels
 
 overflow: scroll; 	: make the scroll appears on the browser
 overflow: auto; 	: make the scroll automatically appears if the element box space is not enough
+
+ctrl+u : see the html codes of the current browser
+
+visibility: hidden; 	: hide the element from the browser
+visibility: visible; 	: make the element visibile from the browser
