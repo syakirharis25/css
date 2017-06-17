@@ -270,3 +270,17 @@ the latter partly inspired by Barrett's deteriorating mental state.</li> 		: set
 	I am the master of my fate,<br />
     I am the captain of my soul.
 </div>													: apply the CSS padding to the div element
+
+<p style="cursor: default;">The Default Cursor</p>			: set the cursor to the default style cursor when user hover their mouse to the 'The Default Cursor' text
+
+<p style="cursor: crosshair;">The Cross Hair Cursor</p>		: set the cursor to the cross hair style cursor when user hover their mouse to the 'The Cross Hair Cursor' text
+
+<p style="cursor: pointer;">The Classic Hand Pointer</p> 	: set the cursor to the classic hand pointer style cursor when user hover their mouse to the 'The Classic Hand Pointer' text
+
+<p style="cursor: move;">The Move Cursor</p> 				: set the cursor to the move style cursor when user hover their mouse to the 'The Move Cursor' text
+
+<p style="cursor: wait;">The Wait Cursor</p>				: set the cursor to the wait style cursor when user hover their mouse to the 'The Wait Cursor' text
+
+<p style="cursor: text;">The I Shaped Text Cursor</p>		: set the cursor to the I shaped text style cursor when user hover their mouse to the 'The I Shaped Text Cursor' text
+
+<p style="cursor: help;">The Help Cursor</p> 				: set the cursor to the help style cursor when user hover their mouse to the 'The Help Cursor' text
