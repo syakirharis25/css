@@ -289,3 +289,6 @@ max-height: 100px; 	: set the maximum height for the dimension to 100 pixels
 min-height: 100px; 	: set the minumum height for the dimension to 100 pixels
 max-width: 100px; 	: set the maximum width for the dimension to 100 pixels
 min-width: 100px; 	: set the minimum width for the dimension to 100 pixels
+
+overflow: scroll; 	: make the scroll appears on the browser
+overflow: auto; 	: make the scroll automatically appears if the element box space is not enough
