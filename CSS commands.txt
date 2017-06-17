@@ -284,3 +284,8 @@ the latter partly inspired by Barrett's deteriorating mental state.</li> 		: set
 <p style="cursor: text;">The I Shaped Text Cursor</p>		: set the cursor to the I shaped text style cursor when user hover their mouse to the 'The I Shaped Text Cursor' text
 
 <p style="cursor: help;">The Help Cursor</p> 				: set the cursor to the help style cursor when user hover their mouse to the 'The Help Cursor' text
+
+max-height: 100px; 	: set the maximum height for the dimension to 100 pixels
+min-height: 100px; 	: set the minumum height for the dimension to 100 pixels
+max-width: 100px; 	: set the maximum width for the dimension to 100 pixels
+min-width: 100px; 	: set the minimum width for the dimension to 100 pixels
