@@ -236,3 +236,37 @@ characterised their work following the departure of 1968 of founder member,
 principal composer, and lyricist, Syd Barrett. The themes on The Dark Side 
 of The Moon include conflict, greed, the passage of time, and mental illness, 
 the latter partly inspired by Barrett's deteriorating mental state.</li> 		: set the  list position to be inside, inline with the text
+
+<style type="text/css">
+	div
+	{
+		border: 2px solid;
+		padding-top: 10px ;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+		float: left;
+	}
+</style> 						: set the div border to solid 2 pixels thick, top padding to 10 pixels, bottom padding to 10 pixels, left padding to 10 pixels, right padding to 10 pixels, float the div element to right of browser page
+
+<div>
+	Out of the night that covers me,<br />
+    Black as the pit from pole to pole,<br />
+	I thank whatever gods may be<br />
+    For my unconquerable soul.<br /><br />
+
+	In the fell clutch of circumstance<br />
+    I have not winced nor cried aloud.<br />
+	Under the bludgeonings of chance<br />
+    My head is bloody, but unbowed.<br /><br/>
+
+	Beyond this place of wrath and tears<br />
+	Looms but the Horror of the shade,<br />
+	And yet the menace of the years<br />
+	Finds and shall find me unafraid.<br /><br />
+
+	It matters not how strait the gate,<br />	
+    How charged with punishments the scroll,<br />
+	I am the master of my fate,<br />
+    I am the captain of my soul.
+</div>													: apply the CSS padding to the div element
