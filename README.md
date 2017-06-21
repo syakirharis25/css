@@ -1,2 +1,2 @@
 # CSS
-All my works related to Cascading Style Sheets (CSS)
+My works related to Cascading Style Sheets (CSS)
