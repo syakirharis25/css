@@ -3,8 +3,9 @@ My works related to Cascading Style Sheets (CSS)
 
 ## Table of Contents
 1. [Introduction.](#introduction)
-2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
+2. [CSS Specificity.](#specificity)
+3. [Official references websites.](#references)
+4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## Introduction
@@ -20,6 +21,16 @@ The name cascading comes from the specified priority scheme to determine which s
 
 In addition to HTML, other markup languages support the use of CSS including XHTML, plain XML, SVG, and XUL.
 
+<a name="specificity"></a>
+## CSS Specificity
+CSS applies different weights to different selectors. Each weight is a magnitude higher than the other.
+
+To calculate the specificity value (which selector will be applied), we simply look at the selector and add a value of 100 for every id selector, add 10 for every class selector and add 1 for every element selector.
+
+<img src="css_specificity_magnitudes.png" height="300">
+
+As you can see, each type of selector is weighted a magnitude higher than the previous one. 
+
 <a name="references"></a>
 ## Official references websites
 Cascading Style Sheets documentation by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference <br />
@@ -28,6 +39,7 @@ CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
 CSS online playground : https://codepen.io <br />
 CSS Color Picker by WebFX : https://www.webfx.com/web-design/color-picker <br />
 CSS patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
+CSS Specificity Calculator : https://specificity.keegan.st/
 
 <a name="github"></a>
 ## GitHub notes
