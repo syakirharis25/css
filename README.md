@@ -26,6 +26,7 @@ Cascading Style Sheets documentation by Mozilla : https://developer.mozilla.org/
 CSS Almanac : https://css-tricks.com/almanac <br />
 CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
 CSS online playground : https://codepen.io <br />
+CSS Color Picker by WebFX : https://www.webfx.com/web-design/color-picker <br />
 
 <a name="github"></a>
 ## GitHub notes
