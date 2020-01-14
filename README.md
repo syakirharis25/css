@@ -8,7 +8,7 @@ My works related to Cascading Style Sheets (CSS)
 
 <a name="introduction"></a>
 ## Introduction
-<img src="HTML.jpg" height="150">
+<img src="css.jpeg" height="150">
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript
 
