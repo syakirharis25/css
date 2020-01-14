@@ -3,8 +3,9 @@ My works related to Cascading Style Sheets (CSS)
 
 ## Table of Contents
 1. [Introduction.](#introduction)
-2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
+2. [CSS Specificity.](#specificity)
+3. [Official references websites.](#references)
+4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## Introduction
@@ -19,6 +20,16 @@ Separation of formatting and content also makes it feasible to present the same 
 The name cascading comes from the specified priority scheme to determine which style rule applies if more than one rule matches a particular element. This cascading priority scheme is predictable. The CSS specifications are maintained by the World Wide Web Consortium (W3C). Internet media type (MIME type) text/css is registered for use with CSS by RFC 2318 (March 1998). The W3C operates a free CSS validation service for CSS documents.
 
 In addition to HTML, other markup languages support the use of CSS including XHTML, plain XML, SVG, and XUL.
+
+<a name="specificity"></a>
+## CSS Specificity
+CSS applies different weights to different selectors. Each weight is a magnitude higher than the other.
+
+To calculate the specificity value (which selector will be applied), we simply look at the selector and add a value of 100 for every id selector, add 10 for every class selector and add 1 for every element selector.
+
+<img src="css_specificity_magnitudes.png" height="150">
+
+As you can see, each type of selector is weighted a magnitude higher than the previous one. 
 
 <a name="references"></a>
 ## Official references websites
