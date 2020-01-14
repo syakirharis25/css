@@ -29,7 +29,7 @@ Cascading Style Sheets documentation by Mozilla : https://developer.mozilla.org/
 Initialize repository, adding GitHub remote repository and check the remote repository
 ```
 $ git init
-$ git remote add origin https://github.com/syakirharis25/css.git
+$ git remote add origin https://github.com/syakirharis25/CSS.git
 $ git remote -v
 $ git status
 ```
