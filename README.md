@@ -23,6 +23,7 @@ In addition to HTML, other markup languages support the use of CSS including XHT
 <a name="references"></a>
 ## Official references websites
 Cascading Style Sheets documentation by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+CSS Almanac : https://css-tricks.com/almanac
 
 <a name="github"></a>
 ## GitHub notes
