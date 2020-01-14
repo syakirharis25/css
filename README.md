@@ -27,7 +27,7 @@ CSS applies different weights to different selectors. Each weight is a magnitude
 
 To calculate the specificity value (which selector will be applied), we simply look at the selector and add a value of 100 for every id selector, add 10 for every class selector and add 1 for every element selector.
 
-<img src="css_specificity_magnitudes.png" height="150">
+<img src="css_specificity_magnitudes.png">
 
 As you can see, each type of selector is weighted a magnitude higher than the previous one. 
 
