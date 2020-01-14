@@ -27,6 +27,7 @@ CSS Almanac : https://css-tricks.com/almanac <br />
 CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
 CSS online playground : https://codepen.io <br />
 CSS Color Picker by WebFX : https://www.webfx.com/web-design/color-picker <br />
+CSS patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
 
 <a name="github"></a>
 ## GitHub notes
