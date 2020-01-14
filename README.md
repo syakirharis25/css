@@ -46,3 +46,8 @@ Then do this command.
 $ git merge origin/master --allow-unrelated-histories
 $ git push origin master
 ```
+
+If the files on the local machine and remote still not merge then do this command.
+```
+$ git clone https://github.com/syakirharis25/CSS
+```
