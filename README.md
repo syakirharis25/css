@@ -33,3 +33,15 @@ $ git remote add origin https://github.com/syakirharis25/css.git
 $ git remote -v
 $ git status
 ```
+
+If there is an error message 
+```
+! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https:///github.com/syakirharis25/css.git'
+```
+
+Then do this command.
+```
+$ git merge origin/master --allow-unrelated-histories
+$ git push origin master
+```
