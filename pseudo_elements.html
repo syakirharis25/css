@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<title>Pseudo Elements in CSS</title>
+		<style type="text/css">
+			p.para1:first-line
+			{
+				font-style: italic;
+				text-decoration: underline;
+				font-size: 24pt;
+				font-family: verdana;
+			}
+			p.para2:first-letter
+			{
+				font-style: bold;
+				font-size: 20pt;
+			}
+			p.para3:before
+			{
+				content: "Hello,";
+				font-style: bold;
+				font-size: 16pt;
+			}
+			p.para4:after
+			{
+				content: " Thank you for writing to us!";
+				font-style: italic;
+			}
+		</style>
+	</head>
+	<body>
+		<p class="para1">
+			The Road not Taken - By Robert Frost <br />
+			Two roads diverged in a yellow wood, <br />
+			And sorry I could not travel both </br />
+			And be one traveler, long I stood <br />
+			And looked down one as far as I could <br />
+			To where it bent in the undergrowth;
+		</p>
+		<p class="para2">
+			Then took the other, as just as fair, <br />
+			And having perhaps the better claim, <br />
+			Because it was grassy and wanted wear; <br />
+			Though as for that the passing there <br />
+			Had worn them really about the same,
+		</p>
+		<hr />
+		<p class="para3">
+			how are you? <br />
+			how may I help you?
+		</p>
+		<hr />
+		<p class="para4" style="font-size: 16pt;">
+			Your query will be addressed soon.
+			<br />
+		</p>
+	</body>
+</html>
