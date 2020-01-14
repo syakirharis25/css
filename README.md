@@ -26,7 +26,7 @@ Cascading Style Sheets documentation by Mozilla : https://developer.mozilla.org/
 
 <a name="github"></a>
 ## GitHub notes
-Initialize repository, adding GitHub remote repository and check the remote repository
+Initialize repository, adding GitHub remote repository and check the remote repository.
 ```
 $ git init
 $ git remote add origin https://github.com/syakirharis25/css.git
@@ -34,7 +34,7 @@ $ git remote -v
 $ git status
 ```
 
-If there is an error message 
+If there is an error message.
 ```
 ! [rejected]        master -> master (non-fast-forward)
 error: failed to push some refs to 'https:///github.com/syakirharis25/css.git'
