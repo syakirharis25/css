@@ -39,6 +39,7 @@ CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
 CSS online playground : https://codepen.io <br />
 CSS Color Picker by WebFX : https://www.webfx.com/web-design/color-picker <br />
 CSS patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
+CSS Specificity Calculator : https://specificity.keegan.st/
 
 <a name="github"></a>
 ## GitHub notes
