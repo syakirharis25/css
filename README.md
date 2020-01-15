@@ -42,6 +42,7 @@ CSS patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
 CSS Specificity Calculator : https://specificity.keegan.st <br />
 CSS Box Model by CSS-Tricks : https://css-tricks.com/the-css-box-model <br />
 CSS Box Model by w3.org : https://www.w3.org/TR/CSS2/box.html
+CSS Reset by Eric A. Meyer : https://meyerweb.com/eric/tools/css/reset/
 
 <a name="github"></a>
 ## GitHub notes
