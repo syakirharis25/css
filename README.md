@@ -41,6 +41,7 @@ CSS Color Picker by WebFX : https://www.webfx.com/web-design/color-picker <br />
 CSS patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
 CSS Specificity Calculator : https://specificity.keegan.st/
 CSS Box Model by CSS-Tricks : https://css-tricks.com/the-css-box-model/
+CSS Box Model by w3.org : https://www.w3.org/TR/CSS2/box.html
 
 <a name="github"></a>
 ## GitHub notes
