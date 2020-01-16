@@ -45,6 +45,7 @@ CSS Box Model by w3.org : https://www.w3.org/TR/CSS2/box.html <br />
 CSS Reset by Eric A. Meyer : https://meyerweb.com/eric/tools/css/reset/ <br />
 
 Open source pictures : https://unsplash.com
+Open source patterns by toptal : https://www.toptal.com/designers/subtlepatterns
 
 <a name="github"></a>
 ## GitHub notes
