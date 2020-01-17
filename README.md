@@ -44,6 +44,7 @@ CSS Box Model by CSS-Tricks : https://css-tricks.com/the-css-box-model <br />
 CSS Box Model by w3.org : https://www.w3.org/TR/CSS2/box.html <br />
 CSS Reset by Eric A. Meyer : https://meyerweb.com/eric/tools/css/reset/ <br />
 CSS Visual Format Model : https://www.w3.org/TR/CSS2/visuren.html <br />
+CSS micro clearfix by Nicolas Gallagher : http://nicolasgallagher.com/micro-clearfix-hack <br />
 
 Open source pictures : https://unsplash.com <br />
 Open source patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
