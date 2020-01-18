@@ -49,6 +49,7 @@ CSS micro clearfix by Nicolas Gallagher : http://nicolasgallagher.com/micro-clea
 Open source pictures : https://unsplash.com <br />
 Open source patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
 Open source GNU Image Manipulation (GIMP) : https://www.gimp.org <br />
+Open source Krita : https://krita.org <br />
 
 <a name="github"></a>
 ## GitHub notes
