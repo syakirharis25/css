@@ -46,6 +46,8 @@ CSS Reset by Eric A. Meyer : https://meyerweb.com/eric/tools/css/reset/ <br />
 CSS Visual Format Model : https://www.w3.org/TR/CSS2/visuren.html <br />
 CSS micro clearfix by Nicolas Gallagher : http://nicolasgallagher.com/micro-clearfix-hack <br />
 
+CSS3 properties by Quackit : https://www.quackit.com/css/css3/properties
+
 Open source pictures : https://unsplash.com <br />
 Open source patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
 Open source GNU Image Manipulation (GIMP) : https://www.gimp.org <br />
