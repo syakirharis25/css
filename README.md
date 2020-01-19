@@ -52,7 +52,8 @@ Open source pictures : https://unsplash.com <br />
 Open source patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
 Open source GNU Image Manipulation (GIMP) : https://www.gimp.org <br />
 Open source Krita : https://krita.org <br />
-Photopea : https://www.photopea.com <br />
+Open source online Free Photo Tool : https://www.freephototool.com <br />
+Online Photopea : https://www.photopea.com <br />
 
 <a name="github"></a>
 ## GitHub notes
