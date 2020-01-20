@@ -55,6 +55,7 @@ Open source Krita : https://krita.org <br />
 Open source online Free Photo Tool : https://www.freephototool.com <br />
 Online Photopea : https://www.photopea.com <br />
 Online Google Fonts : https://fonts.google.com <br />
+Online fonts library by Font Squirrel : https://www.fontsquirrel.com/
 
 <a name="github"></a>
 ## GitHub notes
