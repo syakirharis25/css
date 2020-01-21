@@ -47,6 +47,8 @@ CSS Visual Format Model : https://www.w3.org/TR/CSS2/visuren.html <br />
 CSS micro clearfix by Nicolas Gallagher : http://nicolasgallagher.com/micro-clearfix-hack <br />
 
 CSS3 properties by Quackit : https://www.quackit.com/css/css3/properties
+CSS3 browser support list : https://caniuse.com
+CSS3 prefixes playground : http://pleeease.io/play
 
 Open source pictures : https://unsplash.com <br />
 Open source patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
