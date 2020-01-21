@@ -1,4 +1,4 @@
-# CSS
+# Cascading Style Sheets
 My works related to Cascading Style Sheets (CSS)
 
 ## Table of Contents
