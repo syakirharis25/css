@@ -86,7 +86,7 @@ h1 {
 .overlay:target {
 	width: auto;
 	height: auto;
-	bottom: 0;
+	bottom: 0; 
 	right: 0;
 	background: rgba(0,0,0,.7);
 }
@@ -118,7 +118,39 @@ h1 {
 	animation: slideDownFade .5s .5s forwards;
 }
 
+.overlay:target .next,
+.overlay:target .prev  {
+	animation: fadeAjah .5s .5s forwards;
+}
+
+/* navigasi */
+.next, .prev {
+	width: 70px;
+	height: 70px;
+	background-image: url(../img/next.png);
+	position: absolute;
+	text-indent: -9999px;
+	top: 250px;
+	margin-left: 25px;
+	opacity: 0;
+}
+
+.prev {
+	background-image: url(../img/prev.png);
+	margin-left: -100px;
+}
+
 /* animasi */
+@keyframes fadeAjah {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
 @keyframes zoomDanFade {
 	0% {
 		transform: scale(0);
