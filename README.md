@@ -58,7 +58,10 @@ Open source Krita : https://krita.org <br />
 Open source online Free Photo Tool : https://www.freephototool.com <br />
 Online Photopea : https://www.photopea.com <br />
 Online Google Fonts : https://fonts.google.com <br />
-Online fonts library by Font Squirrel : https://www.fontsquirrel.com/
+Online fonts library by Font Squirrel : https://www.fontsquirrel.com/ <br />
+
+Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com/bert-github <br />
+Lokesh Dhakar, creator of Lightbox in GitHub : https://github.com/lokesh <br />
 
 <a name="github"></a>
 ## GitHub notes
