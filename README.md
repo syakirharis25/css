@@ -60,6 +60,8 @@ Online Photopea : https://www.photopea.com <br />
 Online Google Fonts : https://fonts.google.com <br />
 Online fonts library by Font Squirrel : https://www.fontsquirrel.com/ <br />
 
+Lightbox project : https://lokeshdhakar.com/projects/lightbox2/
+
 Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com/bert-github <br />
 Lokesh Dhakar, creator of Lightbox in GitHub : https://github.com/lokesh <br />
 
