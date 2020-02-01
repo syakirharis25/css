@@ -5,8 +5,9 @@ My works related to Cascading Style Sheets (CSS)
 1. [Introduction.](#introduction)
 2. [CSS Specificity.](#specificity)
 3. [Official references websites.](#references)
-4. [Bootstrap](#bootstrap)
-5. [GitHub notes.](#github)
+4. [Bootstrap.](#bootstrap)
+5. [CSS conferences.](#conferences)
+6. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -68,9 +69,22 @@ Bootstrap official website : https://getbootstrap.com
 
 Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com/bert-github <br />
 Lokesh Dhakar, creator of Lightbox in GitHub : https://github.com/lokesh <br />
+Mark Otto, creator of Bootstrap in GitHub : https://github.com/mdo <br />
+Jacob Thornton, creator of Bootstrap in GitHub : https://github.com/fat <br />
 
 <a name="bootstrap"></a>
 ## 4. Bootstrap.
+Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery. 
+
+Bootstrap, originally named Twitter Blueprint, was developed by Mark Otto and Jacob Thornton at Twitter as a framework to encourage consistency across internal tools. Before Bootstrap, various libraries were used for interface development, which led to inconsistencies and a high maintenance burden. <br />
+
+Official website : https://getbootstrap.com
+
+<a name="conferences"></a>
+## 5. CSS conferences.
+CSS dotCSS conference : https://www.dotcss.io <br />
+CSS related technologies conferences : https://confs.tech/css <br />
+CSS related technologies conferences by CSS-TRICKS : https://conferences.css-tricks.com <br />
 
 <a name="github"></a>
 ## 5. GitHub notes
