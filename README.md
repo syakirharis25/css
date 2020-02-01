@@ -71,6 +71,7 @@ Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com
 Lokesh Dhakar, creator of Lightbox in GitHub : https://github.com/lokesh <br />
 Mark Otto, creator of Bootstrap in GitHub : https://github.com/mdo <br />
 Jacob Thornton, creator of Bootstrap in GitHub : https://github.com/fat <br />
+Shaun The Net Ninja in GitHub :https://github.com/iamshaunjp <br />
 
 <a name="bootstrap"></a>
 ## 4. Bootstrap.
