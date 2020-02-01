@@ -79,7 +79,8 @@ Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quick
 
 Bootstrap, originally named Twitter Blueprint, was developed by Mark Otto and Jacob Thornton at Twitter as a framework to encourage consistency across internal tools. Before Bootstrap, various libraries were used for interface development, which led to inconsistencies and a high maintenance burden. <br />
 
-Official website : https://getbootstrap.com
+Official website : https://getbootstrap.com <br />
+Bootstrap 4 playlist by The Net Ninja : https://github.com/iamshaunjp/bootstrap-4-playlist <br />
 
 <a name="conferences"></a>
 ## 5. CSS conferences.
