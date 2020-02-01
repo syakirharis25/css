@@ -5,10 +5,11 @@ My works related to Cascading Style Sheets (CSS)
 1. [Introduction.](#introduction)
 2. [CSS Specificity.](#specificity)
 3. [Official references websites.](#references)
-4. [GitHub notes.](#github)
+4. [Bootstrap](#bootstrap)
+5. [GitHub notes.](#github)
 
 <a name="introduction"></a>
-## Introduction
+## 1. Introduction.
 <img src="css.jpeg" height="150">
 
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript
@@ -22,7 +23,7 @@ The name cascading comes from the specified priority scheme to determine which s
 In addition to HTML, other markup languages support the use of CSS including XHTML, plain XML, SVG, and XUL.
 
 <a name="specificity"></a>
-## CSS Specificity
+## 2. CSS Specificity.
 CSS applies different weights to different selectors. Each weight is a magnitude higher than the other.
 
 To calculate the specificity value (which selector will be applied), we simply look at the selector and add a value of 100 for every id selector, add 10 for every class selector and add 1 for every element selector.
@@ -32,7 +33,7 @@ To calculate the specificity value (which selector will be applied), we simply l
 As you can see, each type of selector is weighted a magnitude higher than the previous one. 
 
 <a name="references"></a>
-## Official references websites
+## 3. Official references websites.
 Cascading Style Sheets documentation by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
 CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
@@ -68,8 +69,11 @@ Bootstrap official website : https://getbootstrap.com
 Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com/bert-github <br />
 Lokesh Dhakar, creator of Lightbox in GitHub : https://github.com/lokesh <br />
 
+<a name="bootstrap"></a>
+## 4. Bootstrap.
+
 <a name="github"></a>
-## GitHub notes
+## 5. GitHub notes
 Initialize repository, adding GitHub remote repository and check the remote repository.
 ```
 $ git init
