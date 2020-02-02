@@ -70,6 +70,11 @@ CSS margin-bottom Property by w3schools.com : https://www.w3schools.com/cssref/p
 CSS margin-right Property by w3schools.com : https://www.w3schools.com/cssref/pr_margin-right.asp <br />
 CSS margin-top Property by w3schools.com : https://www.w3schools.com/cssref/pr_margin-top.asp <br />
 CSS margin-left Property by w3schools.com : https://www.w3schools.com/cssref/pr_margin-left.asp <br />
+CSS Borders by w3schools.com : https://www.w3schools.com/css/css_border.asp <br />
+CSS border-top Property by w3schools.com : https://www.w3schools.com/cssref/pr_border-top.asp <br />
+CSS border-bottom Property by w3schools.com : https://www.w3schools.com/cssref/pr_border-bottom.asp <br />
+CSS border-left Property by w3schools.com : https://www.w3schools.com/cssref/pr_border-left.asp <br />
+CSS border-right Property by w3schools.com : https://www.w3schools.com/cssref/pr_border-right.asp <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
