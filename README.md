@@ -37,6 +37,7 @@ As you can see, each type of selector is weighted a magnitude higher than the pr
 ## 3. Official references websites.
 Cascading Style Sheets documentation by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference <br />
 W3Schools official website : https://www.w3schools.com <br />
+Bootstrap official website : https://getbootstrap.com <br />
 
 **_CSS documentation by W3Schools_** <br />
 CSS font-weight Property by W3Schools : https://www.w3schools.com/cssref/pr_font_weight.asp <br />
@@ -51,6 +52,7 @@ CSS bottom Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_botto
 CSS right Property by W3Schools :  https://www.w3schools.com/cssref/pr_pos_right.asp <br />
 CSS Padding by W3Schools : https://www.w3schools.com/css/css_padding.asp <br />
 
+**_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
 CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
 CSS online playground : https://codepen.io <br />
@@ -64,11 +66,16 @@ CSS Visual Format Model : https://www.w3.org/TR/CSS2/visuren.html <br />
 CSS micro clearfix by Nicolas Gallagher : http://nicolasgallagher.com/micro-clearfix-hack <br />
 CSS Flexbox Layout Module by w3schools.com : https://www.w3schools.com/css/css3_flexbox.asp <br />
 
+**_CSS3 documentation from multiple sources_** <br />
 CSS3 properties by Quackit : https://www.quackit.com/css/css3/properties <br />
 CSS3 browser support list : https://caniuse.com <br />
 CSS3 prefixes playground : http://pleeease.io/play <br />
 CSS3 Filter Effect : shttp://html5-demos.appspot.com/static/css/filters/index.html <br />
 
+**_CSS articles_** <br />
+How TO - Fixed Footer W3Schools : https://www.w3schools.com/howto/howto_css_fixed_footer.asp <br />
+
+**_CSS open source projects_** <br />
 Open source pictures : https://unsplash.com <br />
 Open source patterns by toptal : https://www.toptal.com/designers/subtlepatterns <br />
 Open source GNU Image Manipulation (GIMP) : https://www.gimp.org <br />
@@ -76,12 +83,12 @@ Open source Krita : https://krita.org <br />
 Open source online Free Photo Tool : https://www.freephototool.com <br />
 Open source fonts library by Font Squirrel : https://www.fontsquirrel.com <br />
 
+**_CSS online tools_** <br />
 Online Photopea : https://www.photopea.com <br />
 Online Google Fonts : https://fonts.google.com <br />
 Online fonts library by Font Squirrel : https://www.fontsquirrel.com/ <br />
 
 Lightbox project : https://lokeshdhakar.com/projects/lightbox2
-Bootstrap official website : https://getbootstrap.com
 
 Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com/bert-github <br />
 Lokesh Dhakar, creator of Lightbox in GitHub : https://github.com/lokesh <br />
