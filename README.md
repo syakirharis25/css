@@ -51,6 +51,10 @@ CSS left Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_left.as
 CSS bottom Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_bottom.asp <br />
 CSS right Property by W3Schools :  https://www.w3schools.com/cssref/pr_pos_right.asp <br />
 CSS Padding by W3Schools : https://www.w3schools.com/css/css_padding.asp <br />
+CSS text-align Property by W3Schools : https://www.w3schools.com/cssref/pr_text_text-align.ASP <br />
+
+**_CSS documentation by Mozilla_** <br />
+CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
