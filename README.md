@@ -45,6 +45,7 @@ CSS width Property by W3Schools : https://www.w3schools.com/cssref/pr_dim_width.
 CSS z-index Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_z-index.asp <br />
 CSS position Property by W3Schools : https://www.w3schools.com/cssref/pr_class_position.asp <br />
 CSS text-decoration Property by W3Schools : https://www.w3schools.com/cssref/pr_text_text-decoration.asp <br />
+CSS height Property by W3Schools : https://www.w3schools.com/cssref/pr_dim_height.asp <br />
 
 CSS Almanac : https://css-tricks.com/almanac <br />
 CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
