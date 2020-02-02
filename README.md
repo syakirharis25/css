@@ -105,6 +105,7 @@ CSS margin-block-end by Mozilla : https://developer.mozilla.org/en-US/docs/Web/C
 CSS gap (grid-gap) by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/gap <br />
 CSS grid-template-columns by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns <br />
 CSS rotate() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate <br />
+CSS repeat() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/repeat <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
