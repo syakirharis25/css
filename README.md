@@ -75,6 +75,7 @@ CSS border-top Property by w3schools.com : https://www.w3schools.com/cssref/pr_b
 CSS border-bottom Property by w3schools.com : https://www.w3schools.com/cssref/pr_border-bottom.asp <br />
 CSS border-left Property by w3schools.com : https://www.w3schools.com/cssref/pr_border-left.asp <br />
 CSS border-right Property by w3schools.com : https://www.w3schools.com/cssref/pr_border-right.asp <br />
+CSS CSS Transitions by w3schools.com : https://www.w3schools.com/css/css3_transitions.asp <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
