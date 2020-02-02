@@ -47,6 +47,7 @@ CSS Box Model by w3.org : https://www.w3.org/TR/CSS2/box.html <br />
 CSS Reset by Eric A. Meyer : https://meyerweb.com/eric/tools/css/reset/ <br />
 CSS Visual Format Model : https://www.w3.org/TR/CSS2/visuren.html <br />
 CSS micro clearfix by Nicolas Gallagher : http://nicolasgallagher.com/micro-clearfix-hack <br />
+CSS Flexbox Layout Module by w3schools.com : https://www.w3schools.com/css/css3_flexbox.asp <br />
 
 CSS3 properties by Quackit : https://www.quackit.com/css/css3/properties <br />
 CSS3 browser support list : https://caniuse.com <br />
