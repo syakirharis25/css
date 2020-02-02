@@ -36,6 +36,12 @@ As you can see, each type of selector is weighted a magnitude higher than the pr
 <a name="references"></a>
 ## 3. Official references websites.
 Cascading Style Sheets documentation by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference <br />
+W3Schools official website : https://www.w3schools.com <br />
+
+**_CSS documentation by W3Schools_**
+CSS font-weight Property by W3Schools : https://www.w3schools.com/cssref/pr_font_weight.asp <br />
+CSS Colors by W3Schools : https://www.w3schools.com/cssref/css_colors.asp <br />
+
 CSS Almanac : https://css-tricks.com/almanac <br />
 CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
 CSS online playground : https://codepen.io <br />
