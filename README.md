@@ -41,6 +41,10 @@ W3Schools official website : https://www.w3schools.com <br />
 **_CSS documentation by W3Schools_** <br />
 CSS font-weight Property by W3Schools : https://www.w3schools.com/cssref/pr_font_weight.asp <br />
 CSS Colors by W3Schools : https://www.w3schools.com/cssref/css_colors.asp <br />
+CSS width Property by W3Schools : https://www.w3schools.com/cssref/pr_dim_width.asp <br />
+CSS z-index Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_z-index.asp <br />
+CSS position Property by W3Schools : https://www.w3schools.com/cssref/pr_class_position.asp <br />
+CSS text-decoration Property by W3Schools : https://www.w3schools.com/cssref/pr_text_text-decoration.asp <br />
 
 CSS Almanac : https://css-tricks.com/almanac <br />
 CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
