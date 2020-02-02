@@ -64,6 +64,7 @@ CSS align-items Property by w3schools.com : https://www.w3schools.com/cssref/css
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
+CSS url() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/url() <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
