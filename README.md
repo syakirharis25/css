@@ -46,6 +46,9 @@ CSS z-index Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_z-in
 CSS position Property by W3Schools : https://www.w3schools.com/cssref/pr_class_position.asp <br />
 CSS text-decoration Property by W3Schools : https://www.w3schools.com/cssref/pr_text_text-decoration.asp <br />
 CSS height Property by W3Schools : https://www.w3schools.com/cssref/pr_dim_height.asp <br />
+CSS left Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_left.asp <br />
+CSS bottom Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_bottom.asp <br />
+CSS right Property by W3Schools :  https://www.w3schools.com/cssref/pr_pos_right.asp <br />
 
 CSS Almanac : https://css-tricks.com/almanac <br />
 CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
