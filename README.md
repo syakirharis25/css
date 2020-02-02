@@ -83,6 +83,7 @@ CSS bottom Property by w3schools.com : https://www.w3schools.com/cssref/pr_pos_b
 CSS left Property by w3schools.com : https://www.w3schools.com/cssref/pr_pos_left.asp <br />
 CSS cursor Property by w3schools.com : https://www.w3schools.com/cssref/pr_class_cursor.asp <br />
 CSS content Property by w3schools.com : https://www.w3schools.com/cssref/pr_gen_content.asp <br />
+CSS transform Property by w3schools.com : https://www.w3schools.com/cssref/css3_pr_transform.asp <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
