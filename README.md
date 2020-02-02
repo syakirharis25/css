@@ -52,6 +52,9 @@ CSS bottom Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_botto
 CSS right Property by W3Schools :  https://www.w3schools.com/cssref/pr_pos_right.asp <br />
 CSS Padding by W3Schools : https://www.w3schools.com/css/css_padding.asp <br />
 CSS text-align Property by W3Schools : https://www.w3schools.com/cssref/pr_text_text-align.ASP <br />
+CSS line-height Property by W3Schools : https://www.w3schools.com/cssref/pr_dim_line-height.asp <br />
+CSS font-family Property by W3Schools : https://www.w3schools.com/cssref/pr_font_font-family.asp <br />
+CSS background Property by W3Schools : https://www.w3schools.com/cssref/css3_pr_background.asp <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
