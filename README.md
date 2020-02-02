@@ -65,6 +65,11 @@ CSS background-size Property by w3schools.com : https://www.w3schools.com/cssref
 CSS linear-gradient() Function by w3schools.com : https://www.w3schools.com/cssref/func_linear-gradient.asp <br />
 CSS Gradients by w3schools.com : https://www.w3schools.com/css/css3_gradients.asp <br />
 CSS rgba() Function by w3schools.com : https://www.w3schools.com/cssref/func_rgba.asp <br />
+CSS Margins by w3schools.com : https://www.w3schools.com/css/css_margin.asp <br />
+CSS margin-bottom Property by w3schools.com : https://www.w3schools.com/cssref/pr_margin-bottom.asp <br />
+CSS margin-right Property by w3schools.com : https://www.w3schools.com/cssref/pr_margin-right.asp <br />
+CSS margin-top Property by w3schools.com : https://www.w3schools.com/cssref/pr_margin-top.asp <br />
+CSS margin-left Property by w3schools.com : https://www.w3schools.com/cssref/pr_margin-left.asp <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
