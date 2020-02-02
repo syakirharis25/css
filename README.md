@@ -102,6 +102,8 @@ CSS translate() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/tr
 CSS flex-direction by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction <br />
 CSS margin-block-start by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-start <br />
 CSS margin-block-end by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-end <br />
+CSS gap (grid-gap) by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/gap <br />
+CSS grid-template-columns by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
