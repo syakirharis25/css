@@ -62,6 +62,8 @@ CSS padding-left Property W3Schools : https://www.w3schools.com/cssref/pr_paddin
 CSS overflow Property by w3schools.com : https://www.w3schools.com/cssref/pr_pos_overflow.asp <br />
 CSS align-items Property by w3schools.com : https://www.w3schools.com/cssref/css3_pr_align-items.asp <br />
 CSS background-size Property by w3schools.com : https://www.w3schools.com/cssref/css3_pr_background-size.asp <br />
+CSS linear-gradient() Function by w3schools.com : https://www.w3schools.com/cssref/func_linear-gradient.asp <br />
+CSS Gradients by w3schools.com : https://www.w3schools.com/css/css3_gradients.asp <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
