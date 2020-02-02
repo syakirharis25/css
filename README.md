@@ -144,13 +144,16 @@ Online Photopea : https://www.photopea.com <br />
 Online Google Fonts : https://fonts.google.com <br />
 Online fonts library by Font Squirrel : https://www.fontsquirrel.com/ <br />
 
+**_CSS projects_** <br />
 Lightbox project : https://lokeshdhakar.com/projects/lightbox2
 
+**_CSS developers_** <br />
 Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com/bert-github <br />
 Lokesh Dhakar, creator of Lightbox in GitHub : https://github.com/lokesh <br />
 Mark Otto, creator of Bootstrap in GitHub : https://github.com/mdo <br />
 Jacob Thornton, creator of Bootstrap in GitHub : https://github.com/fat <br />
-Shaun The Net Ninja in GitHub :https://github.com/iamshaunjp <br />
+Shaun The Net Ninja in GitHub : https://github.com/iamshaunjp <br />
+Robin Rendle in GitHub : https://github.com/robinrendle <br />
 
 <a name="bootstrap"></a>
 ## 4. Bootstrap.
