@@ -55,6 +55,10 @@ CSS text-align Property by W3Schools : https://www.w3schools.com/cssref/pr_text_
 CSS line-height Property by W3Schools : https://www.w3schools.com/cssref/pr_dim_line-height.asp <br />
 CSS font-family Property by W3Schools : https://www.w3schools.com/cssref/pr_font_font-family.asp <br />
 CSS background Property by W3Schools : https://www.w3schools.com/cssref/css3_pr_background.asp <br />
+CSS padding-top Property by W3Schools : https://www.w3schools.com/cssref/pr_padding-top.asp <br />
+CSS padding-bottom Property W3Schools : https://www.w3schools.com/cssref/pr_padding-bottom.asp <br />
+CSS padding-right Property W3Schools : https://www.w3schools.com/cssref/pr_padding-right.asp <br />
+CSS padding-left Property W3Schools : https://www.w3schools.com/cssref/pr_padding-left.asp <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
@@ -80,7 +84,7 @@ CSS3 prefixes playground : http://pleeease.io/play <br />
 CSS3 Filter Effect : shttp://html5-demos.appspot.com/static/css/filters/index.html <br />
 
 **_CSS articles_** <br />
-How TO - Fixed Footer W3Schools : https://www.w3schools.com/howto/howto_css_fixed_footer.asp <br />
+How TO - Fixed Footer by W3Schools : https://www.w3schools.com/howto/howto_css_fixed_footer.asp <br />
 
 **_CSS open source projects_** <br />
 Open source pictures : https://unsplash.com <br />
