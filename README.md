@@ -99,6 +99,7 @@ CSS url() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/url() <b
 CSS translateX() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateX <br />
 CSS translateY() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateY <br />
 CSS translate() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate <br />
+CSS flex-direction by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
