@@ -49,6 +49,7 @@ CSS height Property by W3Schools : https://www.w3schools.com/cssref/pr_dim_heigh
 CSS left Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_left.asp <br />
 CSS bottom Property by W3Schools : https://www.w3schools.com/cssref/pr_pos_bottom.asp <br />
 CSS right Property by W3Schools :  https://www.w3schools.com/cssref/pr_pos_right.asp <br />
+CSS Padding by W3Schools : https://www.w3schools.com/css/css_padding.asp <br />
 
 CSS Almanac : https://css-tricks.com/almanac <br />
 CSS Colors : https://www.w3schools.com/cssref/css_colors.asp <br />
