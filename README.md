@@ -94,6 +94,9 @@ CSS list-style-type Property by w3schools.com : https://www.w3schools.com/cssref
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
 CSS url() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/url() <br />
+CSS translateX() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateX <br />
+CSS translateY() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateY <br />
+CSS translate() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
