@@ -1,5 +1,5 @@
 # Cascading Style Sheets
-My works related to Cascading Style Sheets (CSSZ).
+My works related to Cascading Style Sheets (CSS) style sheet language.
 
 ## Table of Contents
 1. [Introduction.](#introduction)
