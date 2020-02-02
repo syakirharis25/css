@@ -86,6 +86,8 @@ CSS content Property by w3schools.com : https://www.w3schools.com/cssref/pr_gen_
 CSS transform Property by w3schools.com : https://www.w3schools.com/cssref/css3_pr_transform.asp <br />
 CSS opacity Property by w3schools.com : https://www.w3schools.com/cssref/css3_pr_opacity.asp <br />
 CSS visibility Property by w3schools.com : https://www.w3schools.com/cssref/pr_class_visibility.asp <br />
+CSS display Property by w3schools.com : https://www.w3schools.com/cssref/pr_class_display.asp <br />
+CSS flex-flow Property by w3schools.com : https://www.w3schools.com/cssref/css3_pr_flex-flow.asp <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
