@@ -59,6 +59,7 @@ CSS padding-top Property by W3Schools : https://www.w3schools.com/cssref/pr_padd
 CSS padding-bottom Property W3Schools : https://www.w3schools.com/cssref/pr_padding-bottom.asp <br />
 CSS padding-right Property W3Schools : https://www.w3schools.com/cssref/pr_padding-right.asp <br />
 CSS padding-left Property W3Schools : https://www.w3schools.com/cssref/pr_padding-left.asp <br />
+CSS overflow Property by w3schools.com : https://www.w3schools.com/cssref/pr_pos_overflow.asp <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
