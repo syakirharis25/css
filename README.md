@@ -92,6 +92,7 @@ CSS justify-content Property by w3schools.com : https://www.w3schools.com/cssref
 CSS list-style-type Property by w3schools.com : https://www.w3schools.com/cssref/pr_list-style-type.asp <br />
 CSS text-transform Property by w3schools.com : https://www.w3schools.com/cssref/pr_text_text-transform.asp <br />
 CSS transition-delay Property by w3schools.com : https://www.w3schools.com/cssref/css3_pr_transition-delay.asp <br />
+CSS min-width Property by w3schools.com : https://www.w3schools.com/cssref/pr_dim_min-width.asp <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
