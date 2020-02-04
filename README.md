@@ -138,6 +138,7 @@ CSS3 Filter Effect : shttp://html5-demos.appspot.com/static/css/filters/index.ht
 How TO - Fixed Footer by W3Schools : https://www.w3schools.com/howto/howto_css_fixed_footer.asp <br />
 An Introduction to the `fr` CSS unit by Robin Rendle : https://css-tricks.com/introduction-fr-css-unit <br />
 Why Ems? by Chris Coyier : https://css-tricks.com/why-ems <br />
+How to Change Website Font Colors With CSS by Lifewire : https://www.lifewire.com/change-font-color-with-css-3466754 <br />
 
 **_CSS open source projects_** <br />
 Open source pictures : https://unsplash.com <br />
