@@ -111,6 +111,7 @@ CSS repeat() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/repea
 CSS column-rule by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule <br />
 CSS box-sizing by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing <br />
 CSS :root by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/:root <br />
+CSS box-shadow by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
