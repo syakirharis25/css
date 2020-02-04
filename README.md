@@ -125,6 +125,7 @@ CSS Reset by Eric A. Meyer : https://meyerweb.com/eric/tools/css/reset/ <br />
 CSS Visual Format Model : https://www.w3.org/TR/CSS2/visuren.html <br />
 CSS micro clearfix by Nicolas Gallagher : http://nicolasgallagher.com/micro-clearfix-hack <br />
 CSS Flexbox Layout Module by w3schools.com : https://www.w3schools.com/css/css3_flexbox.asp <br />
+CSS EM, PX, PT, CM, IN… by W3C : https://www.w3.org/Style/Examples/007/units.en.html <br />
 
 **_CSS3 documentation from multiple sources_** <br />
 CSS3 properties by Quackit : https://www.quackit.com/css/css3/properties <br />
@@ -135,6 +136,7 @@ CSS3 Filter Effect : shttp://html5-demos.appspot.com/static/css/filters/index.ht
 **_CSS articles_** <br />
 How TO - Fixed Footer by W3Schools : https://www.w3schools.com/howto/howto_css_fixed_footer.asp <br />
 An Introduction to the `fr` CSS unit by Robin Rendle : https://css-tricks.com/introduction-fr-css-unit <br />
+Why Ems? by Chris Coyier : https://css-tricks.com/why-ems <br />
 
 **_CSS open source projects_** <br />
 Open source pictures : https://unsplash.com <br />
@@ -159,6 +161,7 @@ Mark Otto, creator of Bootstrap in GitHub : https://github.com/mdo <br />
 Jacob Thornton, creator of Bootstrap in GitHub : https://github.com/fat <br />
 Shaun The Net Ninja in GitHub : https://github.com/iamshaunjp <br />
 Robin Rendle in GitHub : https://github.com/robinrendle <br />
+Chris Coyier in GitHub : https://github.com/chriscoyier <br />
 
 <a name="bootstrap"></a>
 ## 4. Bootstrap.
