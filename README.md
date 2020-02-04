@@ -108,7 +108,8 @@ CSS grid-template-columns by Mozilla : https://developer.mozilla.org/en-US/docs/
 CSS rotate() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate <br />
 CSS repeat() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/repeat <br />
 CSS column-rule by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule <br />
-CSS box-sizing by Mozilla :https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing <br />
+CSS box-sizing by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing <br />
+CSS :root by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/:root <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
