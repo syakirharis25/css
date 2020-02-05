@@ -3,8 +3,8 @@ My works related to Cascading Style Sheets (CSS) style sheet language.
 
 ## Table of Contents
 1. [Introduction.](#introduction)
-2. [CSS Specificity.](#specificity)
-3. [Official references websites.](#references)
+2. [Official references websites.](#references)
+3. [CSS Specificity.](#specificity)
 4. [Bootstrap.](#bootstrap)
 5. [CSS conferences.](#conferences)
 6. [GitHub notes.](#github)
@@ -23,18 +23,8 @@ The name cascading comes from the specified priority scheme to determine which s
 
 In addition to HTML, other markup languages support the use of CSS including XHTML, plain XML, SVG, and XUL.
 
-<a name="specificity"></a>
-## 2. CSS Specificity.
-CSS applies different weights to different selectors. Each weight is a magnitude higher than the other.
-
-To calculate the specificity value (which selector will be applied), we simply look at the selector and add a value of 100 for every id selector, add 10 for every class selector and add 1 for every element selector.
-
-<img src="css_specificity_magnitudes.png" height="300">
-
-As you can see, each type of selector is weighted a magnitude higher than the previous one. 
-
 <a name="references"></a>
-## 3. Official references websites.
+## 2. Official references websites.
 Cascading Style Sheets documentation by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/Reference <br />
 W3Schools official website : https://www.w3schools.com <br />
 Bootstrap official website : https://getbootstrap.com <br />
@@ -155,6 +145,7 @@ How to apply !important in CSS? by GeekforGeeks : https://www.geeksforgeeks.org/
 What does the “+” (plus sign) CSS selector mean? by GeeksforGeeks : https://www.geeksforgeeks.org/what-does-the-plus-sign-css-selector-mean/ <br />
 Using CSS counters by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters <br />
 How to Use steps() in CSS Animations by Joni Trythall : https://designmodo.com/steps-css-animations/ <br />
+CSS values and units by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units <br />
 
 **_CSS open source projects_** <br />
 Open source pictures : https://unsplash.com <br />
@@ -181,6 +172,16 @@ Shaun The Net Ninja in GitHub : https://github.com/iamshaunjp <br />
 Robin Rendle in GitHub : https://github.com/robinrendle <br />
 Chris Coyier in GitHub : https://github.com/chriscoyier <br />
 Joni Trythall in GitHub : https://github.com/jonitrythall <br />
+
+<a name="specificity"></a>
+## 2. CSS Specificity.
+CSS applies different weights to different selectors. Each weight is a magnitude higher than the other.
+
+To calculate the specificity value (which selector will be applied), we simply look at the selector and add a value of 100 for every id selector, add 10 for every class selector and add 1 for every element selector.
+
+<img src="css_specificity_magnitudes.png" height="300">
+
+As you can see, each type of selector is weighted a magnitude higher than the previous one. 
 
 <a name="bootstrap"></a>
 ## 4. Bootstrap.
