@@ -115,6 +115,8 @@ CSS box-shadow by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/box
 CSS border-radius by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius <br />
 CSS b:last-child by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/:last-child <br />
 CSS background-position by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/background-position <br />
+CSS border-top-left-radius by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-left-radius <br />
+CSS border-top-right-radius by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-right-radius <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
