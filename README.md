@@ -198,12 +198,16 @@ Bootstrap 4 playlist by The Net Ninja : https://github.com/iamshaunjp/bootstrap-
 ## 4.CSS units of measurement.
 There are 15 CSS units supported.
 
-
-| Unit  | Name        | Equivalent to        |
-|-------|-------------|----------------------|
-| cm    | Centimeters | 1cm = 96px/2.54      |
-| mm    | Milimiters  | 1mm = 1/10th of 1 cm |
-
+**Absolute lengths units : always the same size and not relative to anything else**
+| Counter | Unit  | Name               | Equivalent to        |
+|-------- |-------|--------------------|----------------------|
+| 1       | cm    | Centimeters        | 1cm = 96px/2.54      |
+| 2       | mm    | Milimiters         | 1mm = 1/10th of 1 cm |
+| 3       | Q     | Quarter-milimeters | 1Q = 1/40th of 1cm   |
+| 4       | in    | Inches             | 1in = 2.54cm = 96px  |
+| 5       | pc    | Picas              | 1pc = 1/16th of 1in  |
+| 6       | pt    | Points             | 1pt = 1/72th of 1in  |
+| 7       | px    | Pixels             | 1px = 1/96th of 1in  |
 
 
 <a name="conferences"></a>
