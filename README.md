@@ -148,6 +148,7 @@ Simple Little Use Case for `vmin` by Chris Coyier : https://css-tricks.com/simpl
 Units in CSS (em, rem, pt, px, vw, vh, vmin, vmax, ex, ch, ...) by Matthias : https://dev.to/fullstack_to/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0 <br />
 MinMaxing: Understanding vMin and vMax in CSS : http://thenewcode.com/1137/MinMaxing-Understanding-vMin-and-vMax-in-CSS <br />
 How to apply !important in CSS? by GeekforGeeks : https://www.geeksforgeeks.org/how-to-apply-important-in-css/ <br />
+What does the “+” (plus sign) CSS selector mean? by GeeksforGeeks : https://www.geeksforgeeks.org/what-does-the-plus-sign-css-selector-mean/ <br />
 
 **_CSS open source projects_** <br />
 Open source pictures : https://unsplash.com <br />
