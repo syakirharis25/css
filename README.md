@@ -199,10 +199,12 @@ Bootstrap 4 playlist by The Net Ninja : https://github.com/iamshaunjp/bootstrap-
 There are 15 CSS units supported.
 
 
-| Unit  | Name        |
-|-------|-------------|
-| cm    | Centimeters |
------------------------
+| Unit  | Name        | Equivalent to        |
+|-------|-------------|----------------------|
+| cm    | Centimeters | 1cm = 96px/2.54      |
+|-------|-------------|----------------------| 
+| mm    | Milimiters  | 1mm = 1/10th of 1 cm |
+
 
 
 <a name="conferences"></a>
