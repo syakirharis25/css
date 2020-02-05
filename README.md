@@ -94,6 +94,7 @@ CSS list-style-type Property by w3schools.com : https://www.w3schools.com/cssref
 CSS text-transform Property by w3schools.com : https://www.w3schools.com/cssref/pr_text_text-transform.asp <br />
 CSS transition-delay Property by w3schools.com : https://www.w3schools.com/cssref/css3_pr_transition-delay.asp <br />
 CSS min-width Property by w3schools.com : https://www.w3schools.com/cssref/pr_dim_min-width.asp <br />
+CSS transition-duration by w3schools.com : https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration <br />
 
 **_CSS documentation by Mozilla_** <br />
 CSS font-size by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/font-size <br />
@@ -152,6 +153,7 @@ Units in CSS (em, rem, pt, px, vw, vh, vmin, vmax, ex, ch, ...) by Matthias : ht
 MinMaxing: Understanding vMin and vMax in CSS : http://thenewcode.com/1137/MinMaxing-Understanding-vMin-and-vMax-in-CSS <br />
 How to apply !important in CSS? by GeekforGeeks : https://www.geeksforgeeks.org/how-to-apply-important-in-css/ <br />
 What does the “+” (plus sign) CSS selector mean? by GeeksforGeeks : https://www.geeksforgeeks.org/what-does-the-plus-sign-css-selector-mean/ <br />
+Using CSS counters by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters <br />
 
 **_CSS open source projects_** <br />
 Open source pictures : https://unsplash.com <br />
