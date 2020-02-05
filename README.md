@@ -200,15 +200,15 @@ One of the things you’ll use every day in CSS are units. They are used to set 
 
 **Absolute lengths units : always the same size and not relative to anything else**
 
-| Counter | Unit  | Name               | Equivalent to        |
-|-------- |-------|--------------------|----------------------|
-| 1       | cm    | Centimeters        | 1cm = 96px/2.54      |
-| 2       | mm    | Milimiters         | 1mm = 1/10th of 1 cm |
-| 3       | Q     | Quarter-milimeters | 1Q = 1/40th of 1cm   |
-| 4       | in    | Inches             | 1in = 2.54cm = 96px  |
-| 5       | pc    | Picas              | 1pc = 1/16th of 1in  |
-| 6       | pt    | Points             | 1pt = 1/72th of 1in  |
-| 7       | px    | Pixels             | 1px = 1/96th of 1in  |
+| Counter | Unit  | Name                   | Equivalent to        |
+|-------- |-------|------------------------|----------------------|
+| 1       | cm    | **c**enti**m**eters    | 1cm = 96px/2.54      |
+| 2       | mm    | **m**ili**m**iters     | 1mm = 1/10th of 1 cm |
+| 3       | Q     | **Q**uarter-milimeters | 1Q = 1/40th of 1cm   |
+| 4       | in    | **in**ches             | 1in = 2.54cm = 96px  |
+| 5       | pc    | **p**i**c**as          | 1pc = 1/16th of 1in  |
+| 6       | pt    | **p**oin**t**s         | 1pt = 1/72th of 1in  |
+| 7       | px    | **p**i**x**els         | 1px = 1/96th of 1in  |
 
 Most of these values are more useful when used for print, rather than screen output. For example we don't typically use cm (centimeters) on screen. The only value that you will commonly use is px (pixels). In most browsers, the default font size is 16 pixels. <br /><br />
 
@@ -216,15 +216,15 @@ Most of these values are more useful when used for print, rather than screen out
 
 | Counter | Unit  | Relative to                                                         | 
 |-------- |-------|---------------------------------------------------------------------|
-| 1       | em    | Font size of the element.                                           | 
-| 2       | ex    | x-height of the element's font.                                     |
-| 3       | ch    | The advance measure (width) of the glyph "0" of the element's font. | 
-| 4       | rem   | Font size of the root element.                                      | 
-| 5       | lh    | Line height of the element.                                         | 
-| 6       | vw    | 1% of the viewport's width.                                         | 
-| 7       | vh    | 1% of the viewport's height.                                        |
-| 8       | vmin  | 1% of the viewport's smaller dimension.                             |
-| 9       | vmax  | 1% of the viewport's larger dimension.                              |
+| 1       | em    | font size of the el**em**ent.                                       | 
+| 2       | ex    | **x**-height of the **e**lement's font.                             |
+| 3       | ch    | the advance measure (width) of the glyph "0" of the element's font. | 
+| 4       | rem   | font size of the **r**oot el**em**ent.                              | 
+| 5       | lh    | **l**ine **h**eight of the element.                                 | 
+| 6       | vw    | 1% of the **v**iewport's **w**idth.                                 | 
+| 7       | vh    | 1% of the **v**iewport's **h**eight.                                |
+| 8       | vmin  | 1% of the **v**iewport's smaller (**min**imum) dimension.           |
+| 9       | vmax  | 1% of the **v**iewport's larger (**max**imum) dimension.            |
 | 10      | %     | Parent element                                                      |
 
 The benefit of using relative units is that with some careful planning you can make it so the size of text or other elements scale relative to everything else on the page. 
