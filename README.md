@@ -180,6 +180,7 @@ Jacob Thornton, creator of Bootstrap in GitHub : https://github.com/fat <br />
 Shaun The Net Ninja in GitHub : https://github.com/iamshaunjp <br />
 Robin Rendle in GitHub : https://github.com/robinrendle <br />
 Chris Coyier in GitHub : https://github.com/chriscoyier <br />
+Joni Trythall in GitHub : https://github.com/jonitrythall <br />
 
 <a name="bootstrap"></a>
 ## 4. Bootstrap.
