@@ -223,9 +223,9 @@ Most of these values are more useful when used for print, rather than screen out
 | 5       | lh    | Line height of the element.                                         | 
 | 6       | vw    | 1% of the viewport's width.                                         | 
 | 7       | vh    | 1% of the viewport's height.                                        |
-| 8       | vmin  | 1% of the viewport's height.                                        |
-| 9       | vmin  | 1% of the viewport's smaller dimension.                             |
-| 10      | vmax  | 1% of the viewport's larger dimension.                              |
+| 8       | vmin  | 1% of the viewport's smaller dimension.                             |
+| 9       | vmax  | 1% of the viewport's larger dimension.                              |
+| 10      | %     | Parent element                                                      |
 
 The benefit of using relative units is that with some careful planning you can make it so the size of text or other elements scale relative to everything else on the page. 
 
