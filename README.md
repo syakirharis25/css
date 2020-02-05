@@ -196,7 +196,7 @@ Bootstrap 4 playlist by The Net Ninja : https://github.com/iamshaunjp/bootstrap-
 
 <a name="units"></a>
 ## 4.CSS units of measurement.
-There are 15 CSS units supported.
+One of the things you’ll use every day in CSS are units. They are used to set lengths, paddings, margins, align elements and so on.
 
 **Absolute lengths units : always the same size and not relative to anything else**
 
