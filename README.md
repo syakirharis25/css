@@ -199,6 +199,7 @@ Bootstrap 4 playlist by The Net Ninja : https://github.com/iamshaunjp/bootstrap-
 There are 15 CSS units supported.
 
 **Absolute lengths units : always the same size and not relative to anything else**
+
 | Counter | Unit  | Name               | Equivalent to        |
 |-------- |-------|--------------------|----------------------|
 | 1       | cm    | Centimeters        | 1cm = 96px/2.54      |
