@@ -117,6 +117,7 @@ CSS b:last-child by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/:
 CSS background-position by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/background-position <br />
 CSS border-top-left-radius by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-left-radius <br />
 CSS border-top-right-radius by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-right-radius <br />
+CSS initial by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/initial <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
