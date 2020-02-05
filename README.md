@@ -214,16 +214,20 @@ Most of these values are more useful when used for print, rather than screen out
 
 **Relative lengths units : relative to something else, perhaps the size of the parent element's font, or the size of the viewport**
 
-| Counter | Unit  | Name               | Equivalent to        |
-|-------- |-------|--------------------|----------------------|
-| 1       | cm    | Centimeters        | 1cm = 96px/2.54      |
-| 2       | mm    | Milimiters         | 1mm = 1/10th of 1 cm |
-| 3       | Q     | Quarter-milimeters | 1Q = 1/40th of 1cm   |
-| 4       | in    | Inches             | 1in = 2.54cm = 96px  |
-| 5       | pc    | Picas              | 1pc = 1/16th of 1in  |
-| 6       | pt    | Points             | 1pt = 1/72th of 1in  |
-| 7       | px    | Pixels             | 1px = 1/96th of 1in  |
+| Counter | Unit  | Relative to                                                         | 
+|-------- |-------|---------------------------------------------------------------------|
+| 1       | em    | Font size of the element.                                           | 
+| 2       | ex    | x-height of the element's font.                                     |
+| 3       | ch    | The advance measure (width) of the glyph "0" of the element's font. | 
+| 4       | rem   | Font size of the root element.                                      | 
+| 5       | lh    | Line height of the element.                                         | 
+| 6       | vw    | 1% of the viewport's width.                                         | 
+| 7       | vh    | 1% of the viewport's height.                                        |
+| 8       | vmin  | 1% of the viewport's height.                                        |
+| 9       | vmin  | 1% of the viewport's smaller dimension.                             |
+| 10      | vmax  | 1% of the viewport's larger dimension.                              |
 
+The benefit of using relative units is that with some careful planning you can make it so the size of text or other elements scale relative to everything else on the page. 
 
 <a name="conferences"></a>
 ## 5. CSS conferences.
