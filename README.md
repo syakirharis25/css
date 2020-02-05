@@ -198,9 +198,9 @@ Bootstrap 4 playlist by The Net Ninja : https://github.com/iamshaunjp/bootstrap-
 ## 4.CSS units of measurement.
 There are 15 CSS units supported.
 
-| Unit | Name        |
----------------------
-| cm   | Centimeters |
+| __Unit__ | __Name__  |
+------------------------
+| cm   | Centimeters   |
 
 
 <a name="conferences"></a>
