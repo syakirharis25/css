@@ -118,6 +118,7 @@ CSS background-position by Mozilla : https://developer.mozilla.org/en-US/docs/We
 CSS border-top-left-radius by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-left-radius <br />
 CSS border-top-right-radius by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/border-top-right-radius <br />
 CSS initial by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/initial <br />
+CSS Basic concepts of flexbox by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox <br />
 
 **_CSS documentation from multiple sources_** <br />
 CSS Almanac : https://css-tricks.com/almanac <br />
