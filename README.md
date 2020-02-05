@@ -227,7 +227,7 @@ Most of these values are more useful when used for print, rather than screen out
 | 9       | vmax  | 1% of the **v**iewport's larger (**max**imum) dimension.            |
 | 10      | %     | Parent element                                                      |
 
-The benefit of using relative units is that with some careful planning you can make it so the size of text or other elements scale relative to everything else on the page. 
+The benefit of using relative units is that with some careful planning you can make it so the size of text or other elements scale relative to everything else on the page. Avoid using **em** if need to deals with nested elements.
 
 <a name="conferences"></a>
 ## 5. CSS conferences.
