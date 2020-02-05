@@ -210,6 +210,21 @@ One of the things you’ll use every day in CSS are units. They are used to set 
 | 6       | pt    | Points             | 1pt = 1/72th of 1in  |
 | 7       | px    | Pixels             | 1px = 1/96th of 1in  |
 
+Most of these values are more useful when used for print, rather than screen output. For example we don't typically use cm (centimeters) on screen. The only value that you will commonly use is px (pixels).
+
+
+**Relative lengths units : relative to something else, perhaps the size of the parent element's font, or the size of the viewport**
+
+| Counter | Unit  | Name               | Equivalent to        |
+|-------- |-------|--------------------|----------------------|
+| 1       | cm    | Centimeters        | 1cm = 96px/2.54      |
+| 2       | mm    | Milimiters         | 1mm = 1/10th of 1 cm |
+| 3       | Q     | Quarter-milimeters | 1Q = 1/40th of 1cm   |
+| 4       | in    | Inches             | 1in = 2.54cm = 96px  |
+| 5       | pc    | Picas              | 1pc = 1/16th of 1in  |
+| 6       | pt    | Points             | 1pt = 1/72th of 1in  |
+| 7       | px    | Pixels             | 1px = 1/96th of 1in  |
+
 
 <a name="conferences"></a>
 ## 5. CSS conferences.
