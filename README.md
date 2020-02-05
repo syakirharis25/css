@@ -154,6 +154,7 @@ MinMaxing: Understanding vMin and vMax in CSS : http://thenewcode.com/1137/MinMa
 How to apply !important in CSS? by GeekforGeeks : https://www.geeksforgeeks.org/how-to-apply-important-in-css/ <br />
 What does the “+” (plus sign) CSS selector mean? by GeeksforGeeks : https://www.geeksforgeeks.org/what-does-the-plus-sign-css-selector-mean/ <br />
 Using CSS counters by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters <br />
+How to Use steps() in CSS Animations by Joni Trythall : https://designmodo.com/steps-css-animations/ <br />
 
 **_CSS open source projects_** <br />
 Open source pictures : https://unsplash.com <br />
