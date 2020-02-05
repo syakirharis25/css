@@ -199,7 +199,7 @@ Bootstrap 4 playlist by The Net Ninja : https://github.com/iamshaunjp/bootstrap-
 There are 15 CSS units supported.
 
 | __Unit__ | __Name__  |
-------------------------
+|--------------------- |
 | cm   | Centimeters   |
 
 
