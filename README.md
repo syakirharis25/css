@@ -195,7 +195,7 @@ Bootstrap-v4.4.1 by syakirharis25 : https://github.com/syakirharis25/Bootstrap-v
 Bootstrap 4 playlist by The Net Ninja : https://github.com/iamshaunjp/bootstrap-4-playlist <br />
 
 <a name="units"></a>
-## 4.CSS units of measurement.
+## 4. CSS units of measurement.
 One of the things you’ll use every day in CSS are units. They are used to set lengths, paddings, margins, align elements and so on.
 
 **Absolute lengths units : always the same size and not relative to anything else**
@@ -210,8 +210,7 @@ One of the things you’ll use every day in CSS are units. They are used to set 
 | 6       | pt    | Points             | 1pt = 1/72th of 1in  |
 | 7       | px    | Pixels             | 1px = 1/96th of 1in  |
 
-Most of these values are more useful when used for print, rather than screen output. For example we don't typically use cm (centimeters) on screen. The only value that you will commonly use is px (pixels).
-
+Most of these values are more useful when used for print, rather than screen output. For example we don't typically use cm (centimeters) on screen. The only value that you will commonly use is px (pixels). <br />
 
 **Relative lengths units : relative to something else, perhaps the size of the parent element's font, or the size of the viewport**
 
