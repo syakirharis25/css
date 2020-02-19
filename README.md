@@ -9,6 +9,7 @@ My works related to Cascading Style Sheets (CSS) style sheet language.
 5. [Bootstrap.](#bootstrap)
 6. [CSS conferences.](#conferences)
 7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -262,3 +263,23 @@ If the files on the local machine and remote still not merge then do this comman
 ```
 $ git clone https://github.com/syakirharis25/CSS
 ```
+<a name="calculation"></a>
+## 8. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+JSON                             2              0              0          58693
+YAML                             4              0              0          24443
+SVG                           1559              0             24          15256
+JavaScript                      14            917            345           8618
+CSS                             26           3654            108           8549
+Sass                            18            507             34           4669
+LESS                            18            504             55           4627
+HTML                            64            124              5           1727
+Markdown                         1             36              0            228
+-------------------------------------------------------------------------------
+SUM:                          1706           5742            571         126810
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
