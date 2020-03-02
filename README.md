@@ -7,9 +7,10 @@ My works related to Cascading Style Sheets (CSS) style sheet language.
 3. [CSS Specificity.](#specificity)
 4. [CSS units of measurement.](#units) 
 5. [Bootstrap.](#bootstrap)
-6. [CSS conferences.](#conferences)
-7. [GitHub notes.](#github)
-8. [GitHub repository calculation.](#calculation)
+6. [CSS developers.](#developers)
+7. [CSS conferences.](#conferences)
+8. [GitHub notes.](#github)
+9. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -166,18 +167,8 @@ Online fonts library by Font Squirrel : https://www.fontsquirrel.com/ <br />
 **_CSS projects_** <br />
 Lightbox project : https://lokeshdhakar.com/projects/lightbox2
 
-**_CSS developers_** <br />
-Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com/bert-github <br />
-Lokesh Dhakar, creator of Lightbox in GitHub : https://github.com/lokesh <br />
-Mark Otto, creator of Bootstrap in GitHub : https://github.com/mdo <br />
-Jacob Thornton, creator of Bootstrap in GitHub : https://github.com/fat <br />
-Shaun The Net Ninja in GitHub : https://github.com/iamshaunjp <br />
-Robin Rendle in GitHub : https://github.com/robinrendle <br />
-Chris Coyier in GitHub : https://github.com/chriscoyier <br />
-Joni Trythall in GitHub : https://github.com/jonitrythall <br />
-
 <a name="specificity"></a>
-## 2. CSS Specificity.
+## 3. CSS Specificity.
 CSS applies different weights to different selectors. Each weight is a magnitude higher than the other.
 
 To calculate the specificity value (which selector will be applied), we simply look at the selector and add a value of 100 for every id selector, add 10 for every class selector and add 1 for every element selector.
@@ -187,7 +178,7 @@ To calculate the specificity value (which selector will be applied), we simply l
 As you can see, each type of selector is weighted a magnitude higher than the previous one. 
 
 <a name="bootstrap"></a>
-## 3. Bootstrap.
+## 4. Bootstrap.
 Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery. 
 
 Bootstrap, originally named Twitter Blueprint, was developed by Mark Otto and Jacob Thornton at Twitter as a framework to encourage consistency across internal tools. Before Bootstrap, various libraries were used for interface development, which led to inconsistencies and a high maintenance burden. <br />
@@ -197,7 +188,7 @@ Bootstrap-v4.4.1 by syakirharis25 : https://github.com/syakirharis25/Bootstrap-v
 Bootstrap 4 playlist by The Net Ninja : https://github.com/iamshaunjp/bootstrap-4-playlist <br />
 
 <a name="units"></a>
-## 4. CSS units of measurement.
+## 5. CSS units of measurement.
 One of the things you’ll use every day in CSS are units. They are used to set lengths, paddings, margins, align elements and so on.
 
 **Absolute lengths units : always the same size and not relative to anything else**
@@ -231,14 +222,25 @@ Most of these values are more useful when used for print, rather than screen out
 
 The benefit of using relative units is that with some careful planning you can make it so the size of text or other elements scale relative to everything else on the page. Avoid using **em** if need to deals with nested elements.
 
+<a name="developers"></a>
+## 6. CSS developers.
+Bert Bos, creator of Cascading Style Sheets (CSS) in GitHub : https://github.com/bert-github <br />
+Chris Coyier in GitHub : https://github.com/chriscoyier <br />
+Jacob Thornton, creator of Bootstrap in GitHub : https://github.com/fat <br />
+Joni Trythall in GitHub : https://github.com/jonitrythall <br />
+Lokesh Dhakar, creator of Lightbox in GitHub : https://github.com/lokesh <br />
+Mark Otto, creator of Bootstrap in GitHub : https://github.com/mdo <br />
+Robin Rendle in GitHub : https://github.com/robinrendle <br />
+Shaun The Net Ninja in GitHub : https://github.com/iamshaunjp <br />
+
 <a name="conferences"></a>
-## 5. CSS conferences.
+## 7. CSS conferences.
 CSS dotCSS conference : https://www.dotcss.io <br />
 CSS related technologies conferences : https://confs.tech/css <br />
 CSS related technologies conferences by CSS-TRICKS : https://conferences.css-tricks.com <br />
 
 <a name="github"></a>
-## 6. GitHub notes
+## 8. GitHub notes
 Initialize repository, adding GitHub remote repository and check the remote repository.
 ```
 $ git init
@@ -264,7 +266,7 @@ If the files on the local machine and remote still not merge then do this comman
 $ git clone https://github.com/syakirharis25/CSS
 ```
 <a name="calculation"></a>
-## 8. GitHub repository calculation.
+## 9. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
