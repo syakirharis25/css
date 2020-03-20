@@ -150,6 +150,7 @@ What does the “+” (plus sign) CSS selector mean? by GeeksforGeeks : https://
 Using CSS counters by Mozilla : https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters <br />
 How to Use steps() in CSS Animations by Joni Trythall : https://designmodo.com/steps-css-animations/ <br />
 CSS values and units by Mozilla : https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units <br />
+When Using !important is The Right Choice by Chris Coyier : https://css-tricks.com/when-using-important-is-the-right-choice/ <br />
 
 **_CSS open source projects_** <br />
 Open source pictures : https://unsplash.com <br />
